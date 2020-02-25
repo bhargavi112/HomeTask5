@@ -1,0 +1,6 @@
+2020-02-24 21:58:42 INFO  ConstructionApp:12 - Control entered the Cost method
+2020-02-24 21:58:42 INFO  ConstructionApp:24 - Control exited the Cost method
+2020-02-24 21:58:42 INFO  ConstructionApp:14 - Cost for construction of first house is 540000.0
+2020-02-24 21:58:42 INFO  ConstructionApp:12 - Control entered the Cost method
+2020-02-24 21:58:42 INFO  ConstructionApp:24 - Control exited the Cost method
+2020-02-24 21:58:42 INFO  ConstructionApp:18 - Cost for construction of second house is 1125000.0
